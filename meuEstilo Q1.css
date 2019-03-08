@@ -1,0 +1,21 @@
+body {
+	
+	border-left:20em solid green ;
+	border-right:20em solid red;
+	width:60%;
+	height:400px;
+	font-size:12px
+	letter-spacing:3em;
+	word-spacing:5ex
+	line-height:3em;
+	text-align:justify;
+	font-family:Verdana;
+
+}
+p:first-letter
+{
+	font-size:36px;
+	color:blue ;
+	text-decoration:overline;
+	
+}
